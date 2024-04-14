@@ -4,6 +4,7 @@ Tic Tac Toe Game  on RPI Pico in C
 
 ![2](https://github.com/Ruknuddinasrari/Tictactoe-game-rpi-pico/assets/49069833/aae0dcda-ff30-4c2f-b1ec-134261c67340)
 
+
 For this project I have used a Pico h, a breadboard; a red, and a green LED; two 330 Ω 
 resistors; a selection of male-to-male (M2M) jumper wires, and 3 push buttons. 
 
@@ -24,7 +25,5 @@ Then, it calls the gpio_set_dir function with the pin_number field and the pin_d
 arguments. This sets the direction of the specified GPIO pin as input or output.
 The function debounce is a low-level hardware implementation used to eliminate electrical noise generated during a button press. It verifies whether the button state has altered (has_changed) and if the new state is consistent (is_stable). If both of these conditions are met, it returns true to signify a valid button press. If either of the conditions is not met, it returns false, indicating an invalid button press.
 
-
-![image](https://github.com/Ruknuddinasrari/Tictactoe-game-rpi-pico/assets/49069833/62fa9911-5b1b-4697-a690-38d23a7c9313)
 
 ![3](https://github.com/Ruknuddinasrari/Tictactoe-game-rpi-pico/assets/49069833/89a2ae70-c501-4284-b869-6a57173a8487)
