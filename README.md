@@ -38,11 +38,6 @@ The codebase includes functions for GPIO initialization, button state management
 Conclusion:
 This project served as an excellent learning experience in embedded systems design, particularly in understanding the Pico's capabilities and implementing effective input handling techniques.
 
-![image](https://github.com/Ruknuddinasrari/Tictactoe-game-rpi-pico/assets/49069833/f6780f34-3648-4c17-970e-601448f62edb)
-
-
-![image](https://github.com/Ruknuddinasrari/Tictactoe-game-rpi-pico/assets/49069833/5606b53b-2e56-4a41-9afc-a780ff1e8603)
-
 
 
 ![3](https://github.com/Ruknuddinasrari/Tictactoe-game-rpi-pico/assets/49069833/89a2ae70-c501-4284-b869-6a57173a8487)
